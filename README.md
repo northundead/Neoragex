@@ -214,4 +214,4 @@ NeoRAGEx is the complete free version, providing all features and updates withou
 Don’t wait any longer! Download **NeoRAGEx** today and start enjoying your favorite classic arcade games for free!
 
 ---
-**Last updated:** 2026-10-23 09:01:16 UTC
+**Last updated:** 2026-10-23 14:35:36 UTC
